@@ -2,3 +2,5 @@
 - Manzana 
 - Limón 
 - Melón
+- Sandia
+- Banana 
