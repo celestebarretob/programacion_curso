@@ -1,0 +1,29 @@
+h1 {
+    color: red; /*puedo cambiar el comentario*/
+    font-family: Arial, Helvetica;
+    background-color: beige;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+div {
+    background-color: aquamarine;
+    width: 200px;
+    height: 400px;
+    padding: 20px;
+    margin-left: 50px;
+    text-align: center;
+    border: 5px solid black;
+}
+
+.verde{
+    font-size: 20px;
+    font-weight: 200;
+    color: green;
+    font-style:italic;
+}
