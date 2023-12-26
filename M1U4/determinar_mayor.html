@@ -1,0 +1,27 @@
+<!-- Haciendo uso de los bucles, recorrer un array de números y determinar cual es el mayor -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        const numeros = [20, 30, 50, 60, 70, 86, 110, 99,];
+
+        let mayor = 0
+        for (let i = 0; i < numeros.length; i++) {
+            if (numeros[i] > mayor) {
+                mayor = numeros[i];
+            };
+
+        }
+        console.log(`El mayor de ${numeros} es ${mayor}`);
+
+    </script>
+</body>
+
+</html>
